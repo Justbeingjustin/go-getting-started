@@ -1,6 +1,6 @@
-# go-getting-started
+# go-web-service
 
-This was my first introductory course with go. Michael Van Sickle is the author of the course and we created a web service. I learned about the following items:
+This was one of my first introductory courses with go. Michael Van Sickle is the author of the course and we created a web service. I learned about the following items too:
 
 * Pointers
 * Slices
